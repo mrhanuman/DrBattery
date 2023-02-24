@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share_app"
+        android:icon="@drawable/share"
+        android:title="shareApp"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/rate_us"
+        android:icon="@drawable/star"
+        android:title="rate_us"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting"
+        android:title="settings"
+        app:showAsAction="ifRoom" />
+
+</menu>
